@@ -2,8 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         int i = 0;
-        System.out.println("hello Daniel");
-
+        i=10;
         System.out.println("Hello World!");
     }
 }
