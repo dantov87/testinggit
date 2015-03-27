@@ -5,5 +5,6 @@ public class Main {
         i=10;
         System.out.println("Hello World!");
         int counter = 0;
+        int dounter2 = 0;
     }
 }
