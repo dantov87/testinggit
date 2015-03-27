@@ -4,5 +4,6 @@ public class Main {
         int i = 0;
         i=10;
         System.out.println("Hello World!");
+        int counter = 0;
     }
 }
