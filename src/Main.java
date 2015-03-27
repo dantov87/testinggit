@@ -6,5 +6,6 @@ public class Main {
         System.out.println("hi am testing git");
         System.out.println("Hello World!");
         int counter = 0;
+        int dounter2 = 0;
     }
 }
